@@ -6,3 +6,4 @@
 ### kafka版本：2.4.1
 ### 本demo使用maven构建
 详细讲解地址：
+[https://blog.csdn.net/qq_26803795/article/details/105682276](https://blog.csdn.net/qq_26803795/article/details/105682276)
